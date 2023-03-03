@@ -15,7 +15,7 @@ Shippers (ShipperID, ShipperName, Phone)
 /**** Advanced Level *****/
 
 /*1. Select customer name together with each order the customer made*/
-SELECT CustomerName, OrderID
+SELECT c.CustomerName, o.OrderID
 FROM customers c
 JOIN orders o
 ON c.CustomerID = o.CustomerID;
