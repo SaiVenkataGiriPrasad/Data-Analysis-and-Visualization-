@@ -1,2 +1,2 @@
-# Data-Analysis-and-Visualization-
-Data Analysis and Visualization 
+# SQL-Data-Analysis-and-Visualization
+
