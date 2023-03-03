@@ -1,4 +1,4 @@
-/* SQL Queries: Practice your SQL Knowledge! */
+/* SQL Queries Practice! */
 
 /* Credit to Schema : https://github.com/AndrejPHP/w3schools-database */
 
